@@ -1,0 +1,3 @@
+dht.c:18:6:init_dht11	1
+dht.c:29:6:set_dht11_gpio_mode	3
+dht.c:55:9:readDHT11	23
